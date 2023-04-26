@@ -1,0 +1,3 @@
+/Users/shaheen/Documents/College/Class/Senior/Spring/CSCE 441/A6/build/CMakeFiles/A6.dir
+/Users/shaheen/Documents/College/Class/Senior/Spring/CSCE 441/A6/build/CMakeFiles/edit_cache.dir
+/Users/shaheen/Documents/College/Class/Senior/Spring/CSCE 441/A6/build/CMakeFiles/rebuild_cache.dir
