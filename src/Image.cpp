@@ -50,7 +50,7 @@ void Image::writeToFile(const string &filename)
 	// first byte of the next row of pixels
 	int stride_in_bytes = width*comp*sizeof(unsigned char);
 	int rc = stbi_write_png(filename.c_str(), width, height, comp, &pixels[0], stride_in_bytes);
-	if(rc) {
+	if (rc) {
 		cout << "Wrote to " << filename << endl;
 	} else {
 		cout << "Couldn't write to " << filename << endl;

@@ -52,7 +52,7 @@ int main(int argc, char **argv)
 
 	raytrace(scn, image, resolution); // raytrace
 
-	image->writeToFile(filename);
+	image->writeToFile("../renders/" + filename);
 	
 	return 0;
 }

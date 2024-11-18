@@ -2,6 +2,7 @@
 #ifndef SCENE_H
 #define SCENE_H
 
+#define _USE_MATH_DEFINES
 #define GLM_FORCE_RADIANS
 #define DEG_TO_RAD M_PI / 180.0f
 #include <glm/glm.hpp>
